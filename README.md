@@ -6,3 +6,5 @@ This is the copy branch
 This is the second copy
 
 Testing build from github commit
+
+Testing build from Github commit 2
